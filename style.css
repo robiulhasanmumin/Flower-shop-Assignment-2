@@ -31,3 +31,13 @@
   font-weight: 500;
   padding: 10px;
 }
+
+.bloom{
+  background-image: url("./assets/deal-bloom.png");
+}
+.ana{
+  background-image: url("./assets/deal-ana.png");
+}
+.zabo{
+  background-image: url("./assets/deal-zabo.png");
+}
