@@ -18,3 +18,16 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+
+.p-color{
+  color: #E95A08;
+}
+.s-color{
+  color: #8987A1;
+}
+.btn{
+  background: #E95A08;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+}
